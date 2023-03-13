@@ -1,2 +1,2 @@
 # Python
-Skrypty w pythonie
+Moje skrypty w Pythonie

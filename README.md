@@ -1,0 +1,2 @@
+# Python
+Skrypty w pythonie
